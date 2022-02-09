@@ -115,3 +115,15 @@ main {
   text-align: center;
   padding-top: 100px;
 }
+
+.void2 {
+  height: 50%;
+  width: 100%;
+  border-bottom: 4px solid grey;
+}
+
+.text2 {
+  height: 50%;
+  width: 100%;
+  border-bottom: 4px solid grey;
+}
