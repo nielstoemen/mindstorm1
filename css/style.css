@@ -127,3 +127,23 @@ main {
   width: 100%;
   border-bottom: 4px solid grey;
 }
+
+.image2 {
+  height: 80%;
+  width: 100%;
+  padding-top: 20%;
+}
+
+.links2 {
+  height: 535px;
+  width: 50%;
+  border-left: 4px solid grey;
+}
+
+.rechts2 {
+  height: 535px;
+  width: 50%;
+  border-right: 4px solid grey;
+  border-left: 4px solid grey;
+  border-bottom: 4px solid grey;
+}
