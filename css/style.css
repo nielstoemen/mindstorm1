@@ -88,4 +88,29 @@ main {
   border-left: 4px solid grey;
   border-bottom: 4px solid grey;
   border-right: 4px solid grey;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.textMid {
+  height: 535px;
+  width: 33%;
+  border-left: 4px solid grey;
+  border-bottom: 4px solid grey;
+  border-right: 4px solid grey;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.imageRight {
+  height: 535px;
+  width: 33%;
+  border-left: 4px solid grey;
+  border-bottom: 4px solid grey;
+  border-right: 4px solid grey;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
 }
