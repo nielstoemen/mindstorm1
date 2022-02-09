@@ -11,6 +11,12 @@
   border: 4px solid grey;
 }
 
+.head {
+  color: white;
+  padding: 7px;
+  margin-right: 200px;
+}
+
 nav {
   list-style-type: none;
   margin: 0;
