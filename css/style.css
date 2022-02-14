@@ -53,9 +53,12 @@ main {
 }
 
 .links {
-  height: 535px;
+  height: 1000px;
   width: 60%;
   border-left: 4px solid grey;
+  color: aquamarine;
+  text-align: center;
+  font-size: x-large;
 }
 
 .void {
@@ -77,8 +80,8 @@ main {
 }
 
 .rechts {
-  height: 535px;
-  width: 40%;
+  height: 1000px;
+  width: 60%;
   border-right: 4px solid grey;
   border-left: 4px solid grey;
   border-bottom: 4px solid grey;
@@ -90,7 +93,7 @@ main {
 }
 
 .imageLeft {
-  height: 535px;
+  height: 1000px;
   width: 33%;
   border-left: 4px solid grey;
   border-bottom: 4px solid grey;
@@ -101,7 +104,7 @@ main {
 }
 
 .textMid {
-  height: 535px;
+  height: 1000px;
   width: 33%;
   border-left: 4px solid grey;
   border-bottom: 4px solid grey;
@@ -112,7 +115,7 @@ main {
 }
 
 .imageRight {
-  height: 535px;
+  height: 1000px;
   width: 33%;
   border-left: 4px solid grey;
   border-bottom: 4px solid grey;
@@ -129,16 +132,16 @@ main {
 }
 
 .text2 {
-  height: 50%;
+  height: 40%;
   width: 100%;
-  border-bottom: 4px solid grey;
+  
   border-right: 4px solid grey;
   color: white;
   text-align: center;
 }
 
 .image2 {
-  height: 60%;
+  height: 40%;
   width: 100%;
   margin-top: 20%;
   border: 4px solid grey;
@@ -147,13 +150,13 @@ main {
 }
 
 .links2 {
-  height: 535px;
+  height: 1000px;
   width: 50%;
   border-left: 4px solid grey;
 }
 
 .rechts2 {
-  height: 535px;
+  height: 1000px;
   width: 50%;
   border-right: 4px solid grey;
   border-bottom: 4px solid grey;
