@@ -4,6 +4,8 @@
   margin: 0%;
 }
 
+
+
 .navBar {
   height: 75px;
   width: 100%;
@@ -15,6 +17,7 @@
   color: white;
   padding: 7px;
   margin-right: 200px;
+ 
 }
 
 nav {
@@ -45,7 +48,9 @@ ul {
 }
 
 body {
-  background-color: rgb(45, 45, 65);
+  background: linear-gradient(-45deg, rgb(45, 45, 65), #ffffff, #c0891a,rgb(45, 45, 65) );
+  background-size: 900% 100%;
+  animation: gradient 5s ease infinite;
 }
 
 main {
@@ -129,6 +134,7 @@ main {
   height: 50%;
   width: 100%;
   border-bottom: 4px solid grey;
+  
 }
 
 .text2 {
@@ -154,6 +160,7 @@ main {
   width: 50%;
   margin-top: 380px;
   border-left: 4px solid grey;
+  
 }
 
 .rechts2 {
@@ -161,6 +168,7 @@ main {
   width: 50%;
   border-right: 4px solid grey;
   border-bottom: 4px solid grey;
+  
 }
 
 .forms{
