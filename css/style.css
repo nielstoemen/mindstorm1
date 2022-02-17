@@ -57,10 +57,10 @@ main {
   display: flex;
 }
 
-.links {
-  height: 1000px;
+.indexlinks {
+  height: auto;
   width: 60%;
-  border-left: 4px solid grey;
+  border: 4px solid grey;
   color: aquamarine;
   text-align: center;
   font-size: x-large;
@@ -76,6 +76,7 @@ main {
   height: 500px;
   width: 100%;
   border-bottom: 4px solid grey;
+  font-size: smaller;
 }
 
 .displayText {
