@@ -48,9 +48,9 @@ ul {
 }
 
 body {
-  background: linear-gradient(-45deg, rgb(45, 45, 65), #aaaaaa, #c0891a,rgb(45, 45, 65) );
+  background: linear-gradient(-45deg, rgb(45, 45, 65),  #c0891a,rgb(45, 45, 65) );
   background-size: 900% 100%;
-  animation: gradient 20s ease infinite;
+  animation: gradient 35s ease infinite;
 }
 
 main {
@@ -100,7 +100,7 @@ img {
   width: 800px;
   background: linear-gradient(-45deg,  rgb(45, 45, 65), #aaaaaa, #c0891a,rgb(45, 45, 65) );
   background-size: 900% 100%;
-  animation: gradient 20s ease infinite;
+  animation: gradient 35s ease infinite;
   border-radius: 25%;
   margin-left: 150px;
   padding: 10px;
@@ -111,7 +111,7 @@ img {
       background-position: 0% 75%;
   }
   50% {
-      background-position: 100% 50%;
+      background-position: 100% 75%;
   }
   100% {
       background-position: 0% 50%;
@@ -237,4 +237,6 @@ input[type=submit]:hover {
   background-color: rgb(red, green, blue);
   padding: 20px;
 }
+
+/*-----------------------------------------*/
 
